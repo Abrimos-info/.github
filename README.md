@@ -9,7 +9,7 @@ Existe una ciudadanía informada que impulsa y promueve democracias fuertes a tr
 ## VALORES
 Innovación, Precisión, Apertura, Relevancia, Colaboración, Compromiso social
 
-PROYECTOS DESTACADOS
+## PROYECTOS DESTACADOS
 - [Sociedad.info](https://sociedad.info/)
 - [Pidala.info](https://pidala.info/)
 - [Gobernantes.info](https://gobernantes.info/)
